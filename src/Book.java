@@ -6,6 +6,6 @@ public class Book {
         System.out.println(name);
         System.out.println(author);
         System.out.println(year);
-        
+
     }
     }
